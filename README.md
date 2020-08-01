@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+![unfriendly's github stats](https://github-profile-stats.vercel.app/api?username=unfriendly&count_private=true&&theme=algolia&show_icons=true&show_owner)
+
 <!--
 **unfriendly/unfriendly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![unfriendly's github stats](https://github-profile-stats.vercel.app/api?username=unfriendly&count_private=true&&theme=algolia&show_icons=true&show_owner)
 
 Here are some ideas to get you started:
 
