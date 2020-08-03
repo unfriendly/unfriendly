@@ -4,6 +4,9 @@
 
 - 🔭 I’m currently working on 
   - [Unfriendly.net](https://unfriendly.net)
+  
+- 📇 Find out more about me
+  - [Click here](https://gist.github.com/unfriendly/94fc1d3d43b7a618fa815d08aa7eec3c)
 
 - 🌱 I’m currently learning and brushing up my knowledge on 
   - **Swift and Objective-C as well as Mac, and iOS internal system operations.**
