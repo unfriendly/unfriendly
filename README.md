@@ -1,6 +1,9 @@
-<h1 align="center">Hi, I'm Brandon (Unfriendly)</h1>
-<h3 align="center">I’m a designer, pentester, and developer.</br>
-(I ❤ Security research and Design!!!)</h3>
+<h1 align="center">Beloved Son</h1>
+<h2 align="center">Born May 6, 1999 - Tragically passed away Jun 27, 2022</h2>
+<h3 align="center"Free of Pain, Free of Illness</h3>
+<h4 align="center" BE FREE AND SOAR! "</h4>
+<h5 align="center">I’m a designer, pentester, and developer.</br>
+(I ❤ Security research and Design!!!)</h5>
 
 - 🔭 I’m currently working on 
   - [Unfriendly.net](https://unfriendly.net)
